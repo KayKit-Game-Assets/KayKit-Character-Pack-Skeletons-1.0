@@ -1,0 +1,17 @@
+# Set line endings
+* text=auto eol=lf
+
+# Only include the addons folder when downloading from the Asset Library.
+/**        export-ignore
+/addons    !export-ignore
+/addons/** !export-ignore
+/addons/kaykit_character_pack_skeletons/** export-ignore
+/addons/kaykit_character_pack_skeletons/LICENSE.txt !export-ignore
+/addons/kaykit_character_pack_skeletons/Assets !export-ignore
+/addons/kaykit_character_pack_skeletons/Assets/** !export-ignore
+/addons/kaykit_character_pack_skeletons/Assets/fbx export-ignore
+/addons/kaykit_character_pack_skeletons/Characters !export-ignore
+/addons/kaykit_character_pack_skeletons/Characters/** !export-ignore
+/addons/kaykit_character_pack_skeletons/Characters/fbx export-ignore
+/addons/kaykit_character_pack_skeletons/Textures !export-ignore
+/addons/kaykit_character_pack_skeletons/Textures/** !export-ignore

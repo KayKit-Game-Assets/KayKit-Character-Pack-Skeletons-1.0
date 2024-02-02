@@ -38,7 +38,7 @@ Love my game assets? Help me create more by supporting me on [Patreon](https://w
 Can't contribute financially? Simply spread the word to your gamedev friends or favorite content creators. Your support means a lot :) 
 
 
-[![Support on Patreon](https://img.itch.zone/aW1nLzEyODEyNDAwLnBuZw==/original/y5uHiT.png)](https://www.patreon.com/kaylousberg/posts)
+[![Support on Patreon](https://img.itch.zone/aW1nLzEyOTMyMjQ3LnBuZw==/original/Sa%2Furp.png)](https://www.patreon.com/kaylousberg/posts)
 
 ## License
 
